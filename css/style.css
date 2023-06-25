@@ -1,0 +1,105 @@
+/* .bd{
+  font-size: 15px;
+  color:#fff;
+
+}
+.fluid-container{
+}
+.row{
+  position:absolute;
+  top: 20%;
+  left:30%;
+  right:auto;
+  font-size: 10px;
+}
+
+.cl
+{
+  padding-left: 0;
+  padding-right:0;
+}
+#c1,#c2,#c3{
+  margin:0;
+
+}
+.card{
+  margin:0;
+  padding: 0;
+
+}
+img{
+  width:40px;
+  margin : 20px auto 20px;
+}
+.card-title{
+  font-family: 'Big Shoulders Display', cursive;
+
+  font-weight: 700;
+  line-height: 1.2;
+}
+.card-text{
+  font-family: 'Lexend Deca';
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+#c1{
+  background-color: hsl(31, 77%, 52%);
+}
+#c2{
+  background-color: hsl(184, 100%, 22%);
+}
+#c3{
+  background-color: hsl(179, 100%, 13%);
+}*/
+img{
+  width:40px;
+}
+p{
+  font-family: 'Lexend Deca';
+  font-size: 10px;
+  padding-bottom: 50px;
+  font-weight: 100;
+
+}
+.card-body{
+  padding: 30px;
+
+}
+.btn {
+
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+h5{
+  /* padding: 4% 3%; */
+  line-height: 2;
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+  font-size: 30px;
+  padding-top: 15px;
+}
+body{
+  padding: 7% 15%;
+  font-size: 15px;
+  color: #fff;
+}
+.c1{
+  background-color: hsl(31, 77%, 52%);
+}
+.c2{
+  background-color: hsl(184, 100%, 22%);
+}
+.c3{
+  background-color: hsl(179, 100%, 13%);
+}
+.col{
+  padding: 0;
+
+}
